@@ -25,7 +25,7 @@
         <li><strong>Test Envirnoment</strong></li>
         <li><strong>Mobile Testing Checks</strong></li>
         <li><strong>Valid Test Cases</strong>: Scenarios where valid input is provided.</li>
-        <li><strong>Invalid Test Cases</strong>: Scenarios where invalid or erroneous input is tested to ensure proper error handling.</li>
+        <li><strong>Invalid Test Cases</strong>: Scenarios where invalid input is tested to ensure proper error handling.</li>
     </ul>
 
   <p><strong>Test Case Details:</strong> Each test case is designed with the following structure:</p>
