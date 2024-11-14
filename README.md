@@ -99,6 +99,13 @@
     </ul>
 </section>
 
+<section>
+    <h2 class="section-title">How to open the test cases and bug reports</h2>
+    <h3>For Test Automation (Swag Labs):</h3>
+    <ul>
+        <li>Download the pdfs</li>
+    </ul>
+</section>
 
 </body>
 </html>
