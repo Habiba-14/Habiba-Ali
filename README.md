@@ -73,7 +73,7 @@
     <p>In the <code>Swag Labs</code> folder, you will find:</p>
     <ul>
         <li><strong>Test Cases</strong>: A set of test cases for the <strong>login functionality</strong> of the Swag Labs website.</li>
-        <li><strong>Automation Code</strong>: Test automation implementation for the login functionality using <strong>Selenium WebDriver and testNG framework</strong>.</li>
+        <li><strong>Automation Code</strong>: Test automation implementation for the login functionality using <strong> JAVA Selenium WebDriver and testNG framework</strong>.</li>
     </ul>
 </section>
 
