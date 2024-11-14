@@ -68,7 +68,7 @@
 
 <section>
     <h2 class="section-title">3. Test Automation: Swag Labs Login</h2>
-
+ <p><strong>https://www.saucedemo.com/</strong></p>
   <p><strong>Swag Labs Test Cases and Automation Code:</strong></p>
     <p>In the <code>Swag Labs</code> folder, you will find:</p>
     <ul>
