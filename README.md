@@ -95,7 +95,7 @@
     <ul>
         <li>Ensure you have <strong>Selenium WebDriver</strong> and any other necessary dependencies installed.</li>
         <li>Set up the <strong>WebDriver</strong>(ChromeDriver).</li>
-        <li>Run the test scripts in your preferred IDE or command line.preferably on <strong>IntelliJ idea<strong/></li>
+        <li>Run the test scripts in your preferred IDE or command line. Preferably on <strong>IntelliJ idea.<strong/></li>
     </ul>
 </section>
 
